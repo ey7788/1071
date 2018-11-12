@@ -1,0 +1,67 @@
+body{
+font-family: 微軟正黑體;
+background-image: url("images/bg.jpg")
+}
+header{
+width:800px;
+height: 80px;
+background-color: #330000;
+}
+.text1{
+    position:absolute;
+    color: red;
+    margin-top:15px;
+    margin-left: 30px
+}
+.text2{
+    position: absolute;
+    color: white;
+    margin-top:30px;
+    margin-left: 150px   
+}
+aside{
+    width: 170px;
+    height: 400px;
+    background: url("images/bg_lt.png");
+    float: left;
+}
+article{
+    width: 178;
+    height: 400px;
+}
+footer{
+    width: 800px;
+    height: 50px;
+    text-align: center;
+    background-color: #330000;
+    color: white;
+    line-height: 50px;
+}
+nav{
+    margin-top:170px;       
+}
+nav ul{
+    list-style:none;
+}
+nav li{
+ float: right   
+}
+nav ul li a{
+    display: block;
+    background-image: url(images/btn.png);
+    width:150px;
+    height:42px;
+    text-indent: 45px;
+}
+fieldest{
+    text-align: center;
+}
+.consection{
+    margin: 0px au
+    width:400px;
+    padding: 20px
+}
+.pic{
+    width:180px;
+    height:80px;
+}
