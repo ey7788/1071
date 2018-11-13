@@ -2,7 +2,7 @@
 [1](https://ey7788.github.io/1071/w01/%E7%AC%AC%E4%B8%80%E5%80%8Bhtml.html)
 ## WEEK2
 [2](https://ey7788.github.io/1071/w02/my%20class.html)
-[2](https://ey7788.github.io/1071/w02/pokemon.tml)
+[2](https://ey7788.github.io/1071/w02/pokemon.html)
 ## WEEK3
 
 ## WEEK4
@@ -13,5 +13,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODA1Nzc0XX0=
+eyJoaXN0b3J5IjpbMTkxOTcwNDkyXX0=
 -->
