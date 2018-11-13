@@ -18,11 +18,11 @@
 [imagegallery](https://ey7788.github.io/1071/w07/image%20Gallery.html)
 [tku課堂實作](https://ey7788.github.io/1071/w07/TKU%E8%AA%B2%E5%A0%82%E5%AF%A6%E4%BD%9C.html)
 ## WEEK8
--   [wo8 text](https://ey7788.github.io/1071/w08/test1.html)
-- [w08 patten](https://ey7788.github.io/1071/w08/patten.html)
+   [wo8 text](https://ey7788.github.io/1071/w08/test1.html)
+ [w08 patten](https://ey7788.github.io/1071/w08/patten.html)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDM2NTQ2Miw5NzEwNzc4NzIsLTEwOT
+eyJoaXN0b3J5IjpbMTAzMTY0MzY1MCw5NzEwNzc4NzIsLTEwOT
 MwNTQ3NTBdfQ==
 -->
