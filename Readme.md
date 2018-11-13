@@ -13,11 +13,16 @@
 [pet/a>](https://ey7788.github.io/1071/w05-pet/pet.html)
 [imagegallery](https://ey7788.github.io/1071/w05-web/imagegallery.html)
 ## WEEK6
+[青蛙遊戲](https://ey7788.github.io/1071/w06/%E9%9D%92%E8%9B%99%E4%BD%9C%E6%A5%AD.PNG)
 ## WEEK7
+[imagegallery](https://ey7788.github.io/1071/w07/image%20Gallery.html)
+[tku課堂實作](https://ey7788.github.io/1071/w07/TKU%E8%AA%B2%E5%A0%82%E5%AF%A6%E4%BD%9C.html)
 ## WEEK8
+-   [wo8 text](https://ey7788.github.io/1071/w08/test1.html)
+- [w08 patten](https://ey7788.github.io/1071/w08/patten.html)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5MjIxNTg0LDk3MTA3Nzg3MiwtMTA5Mz
-A1NDc1MF19
+eyJoaXN0b3J5IjpbLTc1MDM2NTQ2Miw5NzEwNzc4NzIsLTEwOT
+MwNTQ3NTBdfQ==
 -->
