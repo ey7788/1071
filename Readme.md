@@ -7,6 +7,8 @@
 [article](https://ey7788.github.io/1071/w03/article.html)
 [TKU60](https://ey7788.github.io/1071/w03/tku60.html)
 ## WEEK4
+[blog](https://ey7788.github.io/1071/W04/blog.html)
+[form](https://ey7788.github.io/1071/W04/form.html)
 ## WEEK5
 ## WEEK6
 ## WEEK7
@@ -14,6 +16,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2NzM4NTUxLDk3MTA3Nzg3MiwtMTA5Mz
-A1NDc1MF19
+eyJoaXN0b3J5IjpbMTQ1Mzg2MjM1NSw5NzEwNzc4NzIsLTEwOT
+MwNTQ3NTBdfQ==
 -->
