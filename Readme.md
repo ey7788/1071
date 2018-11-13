@@ -5,7 +5,7 @@
 [Pokemon](https://ey7788.github.io/1071/w02/pokemon.html)
 ## WEEK3
 [article](https://ey7788.github.io/1071/w03/article.html)
-TKU60
+[TKU60](https://ey7788.github.io/1071/w03/ttku.html)
 ## WEEK4
 [blog](https://ey7788.github.io/1071/W04/blog.html)
 [form](https://ey7788.github.io/1071/W04/form.html)
@@ -23,6 +23,6 @@ TKU60
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjIwODUwNTYsMTAzMTY0MzY1MCw5Nz
-EwNzc4NzIsLTEwOTMwNTQ3NTBdfQ==
+eyJoaXN0b3J5IjpbLTEzODUyOTczNjIsLTEzMjIwODUwNTYsMT
+AzMTY0MzY1MCw5NzEwNzc4NzIsLTEwOTMwNTQ3NTBdfQ==
 -->
