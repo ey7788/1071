@@ -1,3 +1,9 @@
+
+## 自學的網站
+1.  [w3cSchools](https://www.w3schools.com/html/default.asp)
+2.  [codepen](https://codepen.io/)
+3.  [CSS](http://zh-tw.learnlayout.com/)
+
 ## WEEK1
 [first html](https://ey7788.github.io/1071/w01/%E7%AC%AC%E4%B8%80%E5%80%8Bhtml.html)
 ## WEEK2
@@ -23,6 +29,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODUyOTczNjIsLTEzMjIwODUwNTYsMT
-AzMTY0MzY1MCw5NzEwNzc4NzIsLTEwOTMwNTQ3NTBdfQ==
+eyJoaXN0b3J5IjpbLTUxODIwMDY5NywtMTM4NTI5NzM2MiwtMT
+MyMjA4NTA1NiwxMDMxNjQzNjUwLDk3MTA3Nzg3MiwtMTA5MzA1
+NDc1MF19
 -->
