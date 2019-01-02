@@ -1,7 +1,7 @@
 
 ##  學習心得
 已經過了一個學期，從一開始的html到css跟響應式網頁，
-開始了解到網站的架構是如何呈現出來的，也開始對這方面逐漸的熟悉， 其中響應式的網頁用途廣泛，需要花大量的時間練習，平時有空得自行上網學習新的語法，加強熟悉度，期待自己能更進一步的呈現網站的
+開始了解到網站的架構是如何呈現出來的，也開始對這方面逐漸的熟悉， 其中響應式的網頁用途廣泛，需要花大量的時間練習，平時有空得自行上網學習新的語法，加強熟悉度，也期許自己能夠更進一步的學習如何呈現新的網站。
 ## 平時自學的網站
 1.  [bootstrap4](https://bootstrap.hexschool.com/)
 2.  [codepen](https://codepen.io/)
@@ -32,7 +32,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Mjg2NTQ0MiwtMzAwNzc4MzEyLC0xMz
-g1Mjk3MzYyLC0xMzIyMDg1MDU2LDEwMzE2NDM2NTAsOTcxMDc3
-ODcyLC0xMDkzMDU0NzUwXX0=
+eyJoaXN0b3J5IjpbLTE5ODg1MDc3NzAsLTMwMDc3ODMxMiwtMT
+M4NTI5NzM2MiwtMTMyMjA4NTA1NiwxMDMxNjQzNjUwLDk3MTA3
+Nzg3MiwtMTA5MzA1NDc1MF19
 -->
