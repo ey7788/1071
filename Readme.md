@@ -1,6 +1,6 @@
 
 ##  學習心得
-
+已經過了一個學期，從html到css再來是響應式網頁
 ## 平時自學的網站
 1.  [w3cSchools](https://www.w3schools.com/html/default.asp)
 2.  [codepen](https://codepen.io/)
@@ -31,7 +31,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjgwNzIyMiwtMzAwNzc4MzEyLC0xMz
+eyJoaXN0b3J5IjpbMjAwMjk2MDY3NSwtMzAwNzc4MzEyLC0xMz
 g1Mjk3MzYyLC0xMzIyMDg1MDU2LDEwMzE2NDM2NTAsOTcxMDc3
 ODcyLC0xMDkzMDU0NzUwXX0=
 -->
