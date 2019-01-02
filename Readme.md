@@ -1,6 +1,7 @@
 
 ##  學習心得
-已經過了一個學期，從html到css再來是響應式網頁
+已經過了一個學期，從一開始的html到css跟響應式網頁，
+逐漸的了解到網站的架構是如何呈現出來的，也開始
 ## 平時自學的網站
 1.  [w3cSchools](https://www.w3schools.com/html/default.asp)
 2.  [codepen](https://codepen.io/)
@@ -31,7 +32,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjk2MDY3NSwtMzAwNzc4MzEyLC0xMz
-g1Mjk3MzYyLC0xMzIyMDg1MDU2LDEwMzE2NDM2NTAsOTcxMDc3
-ODcyLC0xMDkzMDU0NzUwXX0=
+eyJoaXN0b3J5IjpbLTEzMTI0NTg5NjIsLTMwMDc3ODMxMiwtMT
+M4NTI5NzM2MiwtMTMyMjA4NTA1NiwxMDMxNjQzNjUwLDk3MTA3
+Nzg3MiwtMTA5MzA1NDc1MF19
 -->
